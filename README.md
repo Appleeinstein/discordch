@@ -168,40 +168,5 @@ To open an issue, follow these steps:
 4. Include any relevant logs, screenshots, or code snippets to help with troubleshooting.
 5. Submit the issue and await further communication from the project maintainers.
 
-## Contributing
-
-We welcome all contributions. 
-This project was meant to be a development and learning effort by [the CyberSentinels club](https://cybersentinels.org) and we'd love to help you contribute and answer any questions you may have.
-
-### Automated Python Testing
-
-This repo includes automated testing, you can see examples on how to implement that [here](https://github.com/CyberSentinels/penguin-pie)
-
-### Discord API and Developer Documentation
-
-For testing changes and implementing features, you'll need a few things.
-
-- [Discord Developer Application](https://discord.com/developers/applications)
-- [Discord Developers Documentation](https://discord.com/developers/docs/intro)
-- [Discord.py Documentation](https://discordpy.readthedocs.io/en/stable/)
-
-### Working with the Developers
-
-You can discuss development efforts in the community discord server [here](https://discord.io/cybersentinels).
-  
-## License
-
-[MIT](https://github.com/simeononsecurity/glotta/blob/main/LICENSE)
-
-<a href="https://simeononsecurity.ch" target="_blank" rel="noopener noreferrer">
-  <h2>Explore the World of Cybersecurity</h2>
-</a>
-<a href="https://simeononsecurity.ch" target="_blank" rel="noopener noreferrer">
-  <img src="https://simeononsecurity.ch/img/banner.png" alt="SimeonOnSecurity Logo" width="300" height="300">
-</a>
-
-### Links:
-- #### [github.com/simeononsecurity](https://github.com/simeononsecurity)
-- #### [simeononsecurity.ch](https://simeononsecurity.ch)
 
 
